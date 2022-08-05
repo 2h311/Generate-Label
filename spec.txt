@@ -1,0 +1,34 @@
+420141509405511298370625316403
+
+(420)14150(94)05511298370625316403
+(420)14150
+
+(94)05511298370625316403
+
+no gui with python or php with web simple GUI to read excel file and use info to print label in pdf.
+one page include 2 label , check file for detail.
+thing to replace: 
+sender, barcode, receiver, date, weight, orderid, sku(count)
+
+# barcode
+
+9405511298370625316403
+420141509405511298370625316403
+
+(420)14150(94)05511298370625316403
+
+it have 2 ai 420 and 9x u need to create THE TOTAL SAME barcode for my image with this barcode to test 
+
+barcode image
+google gs1 128
+
+# sender, barcode, receiver, date, weight, orderid, sku(count)
+# receiver = Last name + First name
+
+
+{'sender': 'my name ,1001 California ave, south gate, CA, 10001', 'Last name': 'Delongis', 'First name': 'Nicki',
+'order create time': '2022-06-12 18:15:30', 'weight': '11', 'Order ID': '363013-00000973', 'SKU': '2pcsturtl'}
+
+
+
+420 + zip + 9xxxxx
